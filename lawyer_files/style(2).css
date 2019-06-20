@@ -1,0 +1,7 @@
+.do-video-alert{width:680px!important;height: 430px}
+.do-video-alert .layui-layer-content{padding: 5px!important;height: 100%}
+.do-video-alert .layui-layer-content > *{display: inherit;}
+.layer-anim{animation-fill-mode: none!important;-webkit-animation-fill-mode: none!important;}
+@media only screen and (max-width: 800px){
+	.do-video-alert{width:300px!important;height:200px}
+}

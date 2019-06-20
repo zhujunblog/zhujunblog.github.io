@@ -1,0 +1,1 @@
+geetest_1561024211686({"status": "success", "data": {"beeline": "/static/js/beeline.1.0.1.js", "maze": "/static/js/maze.1.0.1.js", "voice": "/static/js/voice.1.2.0.js", "path": "/static/js/geetest.6.0.9.js", "static_servers": ["static.geetest.com", "dn-staticdown.qbox.me"], "pencil": "/static/js/pencil.1.0.3.js", "type": "slide"}})
